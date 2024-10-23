@@ -400,7 +400,7 @@ You can shoose Role only between **ADMIN** or **USER**
 }
 ```
 
-6. **Get All Transaction**
+7. **Get All Transaction**
 
 - `POST` -> localhost:8085/transactions
 - Response : 
